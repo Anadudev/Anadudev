@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anadu Godwin</h1>
 <h3 align="center">A passionate Full-stack web developer.</h3>
 
+# Lost old github account [AnaduCG](https://github.com/AnaduCG/)
+
 - 🔭 I’m currently working on [Pothree](https://github.com/Anadudev/Porthree)
 
 - 🌱 I’m currently learning **React.js, Data Analysis**
