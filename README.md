@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working on [Pothree](https://github.com/Anadudev/Porthree)
 
-- 🌱 I’m currently learning **React.js, Data Analysis**
+- 🌱 I’m currently learning **Node.JS, Next.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anadudev/](https://github.com/Anadudev/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/anadudev/](https://www.linkedin.com/in/anadudev/)
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Web Development**
 
-- ⚡ Fun fact **I love AI**
+- ⚡ Fun fact **I love Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
