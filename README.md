@@ -4,7 +4,7 @@
 # Lost old GitHub account [AnaduCG](https://github.com/AnaduCG/)
 # - Currently learning Docker and containerization
 
-- 🔭 I’m currently working on [Pothree](https://github.com/Anadudev/fast-scrapper)
+- 🔭 I’m currently working on [fast-scrapper](https://github.com/Anadudev/fast-scrapper)
 
 - 🌱 I’m currently learning **FastApi, MongoDB**
 
