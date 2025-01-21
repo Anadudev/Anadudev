@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anadu Godwin</h1>
 <h3 align="center">A passionate Full-stack web developer.</h3>
 
-# Checkout my [portfolio website](https://github.com/Anadudev/)
+# Checkout my [portfolio website](https://anadu.vercel.app/)
 ## Lost old GitHub account [AnaduCG](https://github.com/AnaduCG/)
 ## - Currently learning Docker and containerization
 
