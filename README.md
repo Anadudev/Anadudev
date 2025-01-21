@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anadu Godwin</h1>
 <h3 align="center">A passionate Full-stack web developer.</h3>
 
-# Lost old GitHub account [AnaduCG](https://github.com/AnaduCG/)
-# - Currently learning Docker and containerization
+# Checkout my [portfolio website](https://github.com/Anadudev/)
+## Lost old GitHub account [AnaduCG](https://github.com/AnaduCG/)
+## - Currently learning Docker and containerization
 
 - 🔭 I’m currently working on [fast-scrapper](https://github.com/Anadudev/fast-scrapper)
 
