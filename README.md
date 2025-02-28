@@ -5,10 +5,6 @@
 ## Lost old GitHub account [AnaduCG](https://github.com/AnaduCG/)
 ## - Currently learning Docker and containerization
 
-- 🔭 I’m currently working on [fast-scrapper](https://github.com/Anadudev/fast-scrapper)
-
-- 🌱 I’m currently learning **FastApi, MongoDB**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Anadudev/](https://github.com/Anadudev/)
 
 - 📝 I regularly write articles on [https://dev.to/anadudev](https://dev.to/anadudev)
